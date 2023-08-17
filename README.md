@@ -1,4 +1,4 @@
-# DocHub 一站式优质文章和文档聚合站点。
+# DocHub 一站式优质文章和文档聚合站点
 
 官网：https://www.dochub.wiki/
 
